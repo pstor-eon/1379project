@@ -1,1 +1,2 @@
-# 1379project
+# The 1379 project
+The 1379 project is a project for me to improve the project a little bit more and to show how much potential it has for others. To introduce a little about the 1379 project, 1 out of 1379 is 1 week, 3 is 30 days, 7 is 70 days, 9 is 90 days. So, for example, if I commit every day to 1 Github, I commit every day for a week and post what I did, and show the results and how much I have grown. If I make 9 apps, I think I will be able to show how much perfection and concentration I have put in making the app for 90 days, show that other people can do it with the results, and how focused I can do it in a short period of time because there is a deadline. I made it and I am going to do it this way.
